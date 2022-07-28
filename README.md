@@ -1,4 +1,4 @@
-### Olá! Eu sou Dilton Vilhena, desenvoldor Android e Front-End 👋
+### Olá! Eu sou Dilton Vilhena, estou estudando para me tornar um desenvolvedor Android e Front-End 👋
 
 <div align="center">
   <a href="https://github.com/diltonvilhena">
