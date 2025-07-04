@@ -1,4 +1,4 @@
-### Olá! Eu sou Dilton Vilhena, Analista de Sistemas (SEFA) - Flutter | Java | Angular 
+### Olá! Eu sou Dilton Vilhena, Analista de Sistemas (SEFA) - Java | Angular 
 
 <div align="center">
   <a href="https://github.com/diltonvilhena">
